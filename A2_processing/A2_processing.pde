@@ -1,6 +1,6 @@
 //*************************************************************************
 // Assignment 2 Interactive Intelligent Products
-// Lars Giling: l.t.giling@student.tue.nl
+// Lars Giling: l.t.g****g@student.tue.nl
 //
 // Allows for audio control (forward,backward, pause/play, volume) through 
 // multi-touch gestures via ESP32. Song list can be expanded if mp3 file is 
